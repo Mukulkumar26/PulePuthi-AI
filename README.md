@@ -95,8 +95,4 @@ AI Policy Recommendations <img width="1600" height="720" alt="dashboard_ai_polic
 
 Mukul Kumar Kasoutia
 
-Bachelor of Business Administration (BBA)
-
-Maharshi Dayanand Saraswati University, Ajmer
-
 Interested in Data Analytics, AI Applications, Business Intelligence, and Public Policy.
