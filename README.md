@@ -78,6 +78,19 @@ West Garo Hills
 
 ---
 
+## Dasboard Screenshots
+
+### Education Overview
+- Education Overview <img width="1600" height="720" alt="dashboard_education_overview" src="https://github.com/user-attachments/assets/4545acf7-c6c5-432e-b4f7-040285fe3f5d" />
+
+### Infrastructure Analysis
+-Infrastructure Analysis <img width="1600" height="720" alt="dashboard_infrastructure_analysis" src="https://github.com/user-attachments/assets/0875bb09-0bbd-48b1-89c4-50a17013936b" />
+
+### AI Policy Recommendations
+AI Policy Recommendations <img width="1600" height="720" alt="dashboard_ai_policy_recommendations" src="https://github.com/user-attachments/assets/42c70f17-5dd2-4981-bcaa-0653ff94b2e5" />
+
+---
+
 ## Author
 
 Mukul Kumar Kasoutia
